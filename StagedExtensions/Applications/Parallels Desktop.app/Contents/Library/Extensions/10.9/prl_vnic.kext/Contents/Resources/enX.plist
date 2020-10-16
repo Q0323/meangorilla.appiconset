@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppleTalk</key>
+		<dict>
+			<key>ConfigMethod</key>
+			<string>Node</string>
+			<key>__INACTIVE__</key>
+			<integer>1</integer>
+		</dict>
+	<key>DNS</key>
+		<dict/>
+	<key>Ethernet</key>
+		<dict>
+			<key>MACAddress</key>
+			<string>XX:XX:XX:XX:XX:XX</string>
+		</dict>
+	<key>IPv4</key>
+		<dict>
+			<key>ConfigMethod</key>
+			<string>DHCP</string>
+		</dict>
+	<key>IPv6</key>
+		<dict>
+			<key>__INACTIVE__</key>
+			<integer>1</integer>
+		</dict>
+	<key>Interface</key>
+		<dict>
+			<key>DeviceName</key>
+			<string>enX</string>
+			<key>Hardware</key>
+			<string>Ethernet</string>
+			<key>Type</key>
+			<string>Ethernet</string>
+			<key>UserDefinedName</key>
+			<array>
+				<string>Parallels Host-Guest</string>
+				<string>Parallels NAT</string>
+			</array>
+		</dict>
+	<key>PPP</key>
+		<dict>
+			<key>ACSPEnabled</key>
+			<integer>0</integer>
+			<key>CommDisplayTerminalWindow</key>
+			<integer>0</integer>
+			<key>CommRedialCount</key>
+			<integer>1</integer>
+			<key>CommRedialEnabled</key>
+			<integer>1</integer>
+			<key>CommRedialInterval</key>
+			<integer>5</integer>
+			<key>CommUseTerminalScript</key>
+			<integer>0</integer>
+			<key>DialOnDemand</key>
+			<integer>0</integer>
+			<key>DisconnectOnFastUserSwitch</key>
+			<integer>1</integer>
+			<key>DisconnectOnIdle</key>
+			<integer>0</integer>
+			<key>DisconnectOnIdleTimer</key>
+			<integer>1800</integer>
+			<key>DisconnectOnLogout</key>
+			<integer>1</integer>
+			<key>DisconnectOnSleep</key>
+			<integer>1</integer>
+			<key>IPCPCompressionVJ</key>
+			<integer>1</integer>
+			<key>IdleReminder</key>
+			<integer>0</integer>
+			<key>IdleReminderTimer</key>
+			<integer>1800</integer>
+			<key>LCPEchoEnabled</key>
+			<integer>0</integer>
+			<key>LCPEchoFailure</key>
+			<integer>4</integer>
+			<key>LCPEchoInterval</key>
+			<integer>10</integer>
+			<key>Logfile</key>
+			<string>/var/log/ppp.log</string>
+			<key>VerboseLogging</key>
+			<integer>0</integer>
+			<key>__INACTIVE__</key>
+			<integer>1</integer>
+		</dict>
+	<key>Proxies</key>
+		<dict>
+			<key>AppleProxyConfigurationSelected</key>
+			<integer>2</integer>
+			<key>ExcludeSimpleHostnames</key>
+			<integer>0</integer>
+			<key>FTPPassive</key>
+			<integer>1</integer>
+			<key>ProxyAutoDiscoveryEnable</key>
+			<integer>0</integer>
+		</dict>
+	<key>UserDefinedName</key>
+		<array>
+			<string>Parallels Adapter 0</string>
+			<string>Parallels Adapter 1</string>
+		</array>
+</dict>
+</plist>

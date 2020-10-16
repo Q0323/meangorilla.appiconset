@@ -1,0 +1,10 @@
+
+Showing Recent Messages
+/Volumes/NO NAME/Eaze-Giphy/Pods/Target Support Files/Pods-EazeChallenge/Pods-EazeChallenge.debug.xcconfig: unable to open file (in target "EazeChallenge" in project "EazeChallenge")
+
+/Volumes/NO NAME/Eaze-Giphy/Pods/Target Support Files/Pods-EazeChallenge/Pods-EazeChallenge.debug.xcconfig: unable to open file (in target "EazeChallenge" in project "EazeChallenge")
+
+/Volumes/NO NAME/Eaze-Giphy/Pods/Target Support Files/Pods-EazeChallenge/Pods-EazeChallenge.debug.xcconfig: unable to open file (in target "EazeChallenge" in project "EazeChallenge")
+
+/Volumes/NO NAME/Eaze-Giphy/Pods/Target Support Files/Pods-EazeChallenge/Pods-EazeChallenge.debug.xcconfig: unable to open file (in target "EazeChallenge" in project "EazeChallenge")
+
